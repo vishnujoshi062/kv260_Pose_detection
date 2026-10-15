@@ -71,7 +71,3 @@ scripts/    download_videos.sh, run_video.sh, run_camera.sh
 docs/       setup.md, models.md
 results/    output video and screenshots
 ```
-
-## License
-
-The scripts and docs in this repo are MIT licensed (see [`LICENSE`](LICENSE)). The demo source in `src/` is from the Vitis AI repository, Copyright Xilinx Inc., licensed under the Apache License 2.0; its license header is kept in the file.
