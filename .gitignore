@@ -1,0 +1,6 @@
+*.avi
+*.mp4
+*.tar.gz
+videos/
+!results/*.mp4
+!results/*.png
